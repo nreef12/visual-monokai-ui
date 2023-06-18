@@ -2,7 +2,7 @@
   "name": "visual-monokai-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "An Atom/Pulsar theme based on Visual Studio Code's built-in Monokai theme",
   "keywords": [
     "ui",
     "theme"
